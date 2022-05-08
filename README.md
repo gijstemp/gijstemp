@@ -32,13 +32,18 @@
 <hr>
 <h3 align="center">:file_folder: Highlighted Projects</h3>
 <p align="center">
-<p align="center">Coming soon. 
 </p>  
+
+[Predicting start-up succes](https://github.com/gijstemp/Projects/tree/master/Python/Predicting%20start-up%20succes)
+
 <hr>
 <h3 align="center"> :fire: My Stats </h3>
+
+<div align="center">
+            
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gijstemp&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+</div>
 
 <div id = "badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=gijstemp&style=flat-square&color=blue" alt=""/>
