@@ -1,11 +1,11 @@
-![Banner](https://github.com/gijstemp/gijstemp/blob/main/readme_banner.png "Banner")
+<div id="header" align="center">
+<img src ="https://github.com/gijstemp/gijstemp/blob/main/readme_banner.png">
+</div>
 <p align="center">
 <h2>Hello there! My name is Gijs Tempelman. 👋</h2>
 <p align="center">I'm currently a student pursuing my Master of Science degree in Business Analytics at the University of Rotterdam, the Netherlands :student:. I'm passionate about all things data related. I aspire to be a data scientist and have experience in areas of data analysis and machine learning :man_technologist:. 
 </p>
-
 <p align="center"> Data, in my opinion, tells us more than simply numbers; it also helps us understand our users and their needs. I'm interested in data science because I want to see businesses use data to their advantage. </p>
-
 <p align="center"><a href="https://www.linkedin.com/in/gijs-tempelman-640128217/"><img src="https://github.com/gijstemp/gijstemp/blob/main/linkedin.svg" height=25>
 </p>
 <hr>
@@ -34,7 +34,12 @@
 <p align="center">
 <p align="center">Coming soon. 
 </p>  
+<hr>
+<h3 align="center"> :fire: My Stats </h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gijstemp&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--- ![Gijs' GitHub stats](https://github-readme-stats.vercel.app/api?username=gijstemp&show_icons=true&theme=radical) -->
 
-![Visitor Count](https://profile-counter.glitch.me/gijstemp/count.svg) 
+
+<div id = "badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=gijstemp&style=flat-square&color=blue" alt=""/>
+</div>
