@@ -36,6 +36,7 @@
 
 [Predicting start-up succes](https://github.com/gijstemp/Projects/tree/master/Python/Predicting%20start-up%20succes)
 
+More coming soon ...
 <hr>
 <h3 align="center"> :fire: My Stats </h3>
 
