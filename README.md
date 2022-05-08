@@ -34,7 +34,9 @@
 <p align="center">
 </p>  
 
-[Predicting start-up succes](https://github.com/gijstemp/Projects/tree/master/Python/Predicting%20start-up%20succes)
+<img src ="https://github.com/gijstemp/gijstemp/blob/main/succes.png" width=50> [Predicting start-up succes](https://github.com/gijstemp/Projects/tree/main/Python/Predicting%20start-up%20succes)
+
+<img src ="https://github.com/gijstemp/gijstemp/blob/main/covid.png" width=50> [Impact of COVID-19 regulations on crime](https://github.com/gijstemp/Projects/tree/main/R/Impact%20of%20COVID-19%20regulations%20on%20crime)
 
 More coming soon ...
 <hr>
