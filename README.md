@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src ="https://github.com/gijstemp/gijstemp/blob/main/readme_banner.png">
+<img src ="https://github.com/gijstemp/gijstemp/blob/main/banner_readme.png">
 </div>
 <p align="center">
 <h2>Hello there! My name is Gijs Tempelman. 👋</h2>
