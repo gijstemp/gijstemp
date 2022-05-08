@@ -5,7 +5,7 @@
 <h2>Hello there! My name is Gijs Tempelman. 👋</h2>
 <p align="center">I'm currently a student pursuing my Master of Science degree in Business Analytics at the University of Rotterdam, the Netherlands :student:. At the moment I am writing my thesis on the optimization of buffer allocations in packaging lines using simulation and linear programming. I'm passionate about all things data related. I aspire to be a data scientist and have experience in areas of data analysis and machine learning :man_technologist:. 
 </p>
-<p align="center"> Data, in my opinion, tells us more than simply numbers; it also helps us understand our users and their needs. I'm interested in data science because I want to see businesses use data to their advantage. </p>
+<p align="center"> Data, in my opinion, tells us more than simply numbers; it also helps us understand the world around us. I'm interested in data science because I believe it can be utilized for the greater good of society. Data science for social good has resulted in new and innovative approaches to topics such as education, poverty, health, human rights, the environment, and more. I would love to be able to contribute to that!   </p>
 <p align="center"><a href="https://www.linkedin.com/in/gijs-tempelman-640128217/"><img src="https://github.com/gijstemp/gijstemp/blob/main/linkedin.svg" height=25>
 </p>
 <hr>
