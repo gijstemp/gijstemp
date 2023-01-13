@@ -1,8 +1,8 @@
 <p align="center">
-<h2>Hello there! My name is Gijs Tempelman. 👋</h2>
-<p align="center">Aspiring Data Scientist with a MSc. in Business Analytics from the University of Rotterdam, the Netherlands :student:. I'm passionate about all things data related. I aspire to be a data scientist and have experience in areas of data analysis and machine learning :man_technologist:. 
+<h2>Welcome to my GitHub profile! My name is Gijs Tempelman. 👋</h2>
+<p align="center">I am a Business Development Specialist at GreenBytes where we use AI and historical data to reduce food waste in restaurants. I hold an MSc in Business Analytics from the University of Rotterdam and am passionate about all things data-related. With experience in data analysis, data science, and machine learning, I believe that data can help us understand the world around us and be used for the greater good of society.  
 </p>
-<p align="center"> Data, in my opinion, tells us more than simply numbers; it also helps us understand the world around us. I'm interested in data science because I believe it can be utilized for the greater good of society. Data science for social good has resulted in new and innovative approaches to topics such as education, poverty, health, human rights, the environment, and more. I would love to be able to contribute to that!   </p>
+<p align="center"> I am constantly working to further my education and expertise in data science and this GitHub profile serves as a testament to my efforts and achievements!   </p>
 <p align="center"><a href="https://www.linkedin.com/in/gijs-tempelman-640128217/"><img src="https://github.com/gijstemp/gijstemp/blob/main/linkedin.svg" height=25>
 </p>
 <hr>
