@@ -1,8 +1,11 @@
 <p align="center">
 <h2>Welcome to my GitHub profile! My name is Gijs Tempelman. 👋</h2>
-<p align="center">I am a Business Development Specialist at GreenBytes where we use AI and historical data to reduce food waste in restaurants. I hold an MSc in Business Analytics from the University of Rotterdam and am passionate about all things data-related. With experience in data analysis, data science, and machine learning, I believe that data can help us understand the world around us and be used for the greater good of society.  
+<p align="center">I am a Business Development Specialist at GreenBytes based in Reykjavik, Iceland. At GreenBytes, we use historical order data and AI to make precise order suggestions for restaurants with the goal of reducing food waste. As a Business Development Specialist I leverage my expertise in data analysis, data science and machine learning to drive business growth and optimize client onboarding processes.  
 </p>
-<p align="center"> I am constantly working to further my education and expertise in data science and this GitHub profile serves as a testament to my efforts and achievements!   </p>
+<p align="center"> I hold an MSc in Business Analytics from the University of Rotterdam and am passionate about all things data-related. With experience in data analysis, data science, and machine learning, I believe that data can help us understand the world around us, and used for the greater good of society. My main interest in data science is for social good, which has led to new and innovative approaches to issues such as education, poverty, health, human rights, and the environment.   
+</p>
+<p align="center"> I am constantly working to further my education and expertise in data science. I am currently completing the Machine Learning Specialization course created by Andrew Ng in collaboration with Stanford Online. My goal is to stay current and up-to-date with the latest advancements in the field, and I am always looking for new opportunities to use my skills and knowledge to contribute to a positive impact on society. This GitHub profile serves as a testament to my efforts and achievements!   
+</p>
 <p align="center"><a href="https://www.linkedin.com/in/gijs-tempelman-640128217/"><img src="https://github.com/gijstemp/gijstemp/blob/main/linkedin.svg" height=25>
 </p>
 <hr>
