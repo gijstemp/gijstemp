@@ -34,7 +34,7 @@
 <p align="center">
 </p>  
 
-Coming soon ...
+<img src ="https://github.com/gijstemp/gijstemp/blob/main/packagingline.png" width=50> [Packaging Line Optimization](https://github.com/gijstemp/packaging-line-optimization)
 <hr>
 <h3 align="center"> :fire: My Stats </h3>
 
