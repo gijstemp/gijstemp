@@ -14,10 +14,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gijstemp/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - uses: gijstemp/metrics@latest
         with: 
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
