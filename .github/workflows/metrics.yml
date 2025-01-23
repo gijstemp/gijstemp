@@ -25,3 +25,5 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: Gijs Tempelman, gijstemp, 50988258+gijstemp@users.noreply.github.com, gijstempelman@gmail.com
           plugin_languages_categories: data, markup, programming
+          plugin_habits: yes
+          plugin_habits_charts: yes
