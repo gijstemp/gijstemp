@@ -18,6 +18,8 @@ jobs:
         with:
           template: repository
           token: ${{ secrets.TOKEN }}
+          user: lowlighter
+          repo: metrics
           base: header, activity
           plugin_languages: yes
           plugin_lines: yes
