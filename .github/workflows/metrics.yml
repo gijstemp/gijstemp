@@ -17,10 +17,9 @@ jobs:
       - uses: gijstemp/metrics@latest
         with:
           token: ${{ secrets.TOKEN }}
-      - uses: gijstemp/metrics@latest
-        with: 
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.TOKEN }}
-          base: header
+          base: header, activity, community, repositories, metadata
+          plugin_activity: yes
+          plugin_followup: yes
           plugin_languages: yes
-                
+          plugin_languages_indepth: yes
+          plugin_languages_categories: data, markup, programming
