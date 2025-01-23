@@ -21,6 +21,6 @@ jobs:
         with: 
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header
           plugin_languages: yes
                 
