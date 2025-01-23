@@ -18,7 +18,7 @@ jobs:
         with:
           template: repository
           token: ${{ secrets.TOKEN }}
-          user: gijstemp
+          user: lowlighter
           repo: metrics
           base: header, activity
           plugin_lines: yes
