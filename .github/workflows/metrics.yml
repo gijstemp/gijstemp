@@ -16,10 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: repository
           token: ${{ secrets.TOKEN }}
-          user: lowlighter
-          repo: metrics
           base: header, activity
           plugin_lines: yes
           plugin_languages: yes
