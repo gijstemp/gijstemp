@@ -12,3 +12,4 @@
   <p align="center"><a href="https://www.linkedin.com/in/gijs-tempelman-640128217/"><img src="https://github.com/gijstemp/gijstemp/blob/main/linkedin.svg" height=25> 
   </p> 
     <hr>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
